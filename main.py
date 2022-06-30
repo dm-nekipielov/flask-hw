@@ -36,4 +36,4 @@ def calculate_average() -> str:
 if __name__ == "__main__":
     app.run(debug=True)
 
-# https://youtu.be/LvN84CjFqEc?t=7586
+
